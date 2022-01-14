@@ -1,0 +1,31 @@
+# Blob-CSS
+
+
+.wp-block-image
+{
+	border-radius: 76% 24% 67% 33% / 30% 30% 70% 70% ;
+}
+
+.wp-block-image:nth-child(2) 
+{
+	border-radius: 56% 44% 66% 34% / 52% 50% 50% 48% 
+}
+
+
+.wp-block-image:nth-child(3) 
+{
+	border-radius: 56% 44% 66% 34% / 19% 50% 50% 81% 
+}
+
+.wp-block-image:nth-child(4) 
+{
+	border-radius: 42% 58% 64% 36% / 45% 74% 26% 55% 
+}
+
+.wp-block-image:nth-child(5) 
+{
+	border-radius: 42% 58% 26% 74% / 25% 74% 26% 75% 
+}
+
+
+
